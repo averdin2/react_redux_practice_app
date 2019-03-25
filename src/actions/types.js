@@ -1,0 +1,3 @@
+export const FETCH_USERS = 'FETCH_USERS';
+export const UPDATE_SELECT_USER = 'UPDATE_SELECT_USER'
+export const FETCH_POSTS = 'FETCH_POSTS';
